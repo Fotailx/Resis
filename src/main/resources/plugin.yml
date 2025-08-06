@@ -1,0 +1,9 @@
+name: Resis
+main: Main
+version: 1.0
+api-version: 1.20
+commands:
+  resis:
+    description: 打开主菜单
+    usage: /resis
+    aliases: [menus, openmenu]
